@@ -1,25 +1,24 @@
 {
-  "name": "@aensley/bus",
+  "name": "@marcioluiz/url-shortener-cloudflare",
   "version": "1.0.0",
   "description": "Basic URL Shortener for Cloudflare Pages",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aensley/bus.git"
+    "url": "https://github.com/marcioluiz/url-shortener-cloudflare.git"
   },
   "author": {
-    "name": "Andrew Ensley",
-    "email": "aensley@users.noreply.github.com",
-    "url": "https://andrewensley.com"
+    "name": "Márcio Luiz",
+    "email": "marcioluizdesign@gmail.com",
+    "url": "https://marcioluiz.tec.br"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aensley/bus/issues/new?assignees=aensley&labels=bug%2Ctriage&template=bug-report.yml&title=%5BBug%5D%3A+"
+    "url": "https://github.com/marcioluiz/url-shortener-cloudflare/issues/new?assignees=aensley&labels=bug%2Ctriage&template=bug-report.yml&title=%5BBug%5D%3A+"
   },
   "funding": [
-    "https://github.com/sponsors/aensley",
-    "https://paypal.me/AndrewEnsley"
+    ""
   ],
-  "homepage": "https://github.com/aensley/bus#readme",
+  "homepage": "https://github.com/marcioluiz/url-shortener-cloudflare#readme",
   "dependencies": {
     "@cloudflare/pages-plugin-cloudflare-access": "^1.0.3",
     "@cloudflare/pages-plugin-sentry": "^1.1.1",
