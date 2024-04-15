@@ -26,11 +26,11 @@ Built on Cloudflare's blazing fast global network.
 
 ### Example
 
-I run my own installation of bus at <https://ensl.ee>
+I run my own installation of bus at <https://shtr.marcioluiz.tec.br/>
 
-The following URL brings you to the bus GitHub page: <https://ensl.ee/bus>
+The following URL brings you to the bus GitHub page: <https://shtr.marcioluiz.tec.br/bus>
 
-For screenshots of the dashboard, [check out the Wiki](https://github.com/aensley/bus/wiki).
+For screenshots of the dashboard, [check out the Wiki](https://github.com/marcioluiz/url-shortener-cloudflare/wiki).
 
 ### Tech Stack
 
